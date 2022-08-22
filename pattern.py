@@ -1,3 +1,5 @@
+#Atharva Gujar , Pattern codes 22nd Aug 2022
+
 def pattern1(rows):   
     for i in range(rows):
         for j in range(i):
